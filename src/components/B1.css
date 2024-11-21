@@ -1,0 +1,8 @@
+#b1{
+    border-style: dashed;
+    background-color:azure;
+}
+#e1{
+    border-style:dotted;
+    background-clip: content-box;
+}
